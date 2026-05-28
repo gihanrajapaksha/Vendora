@@ -1,3 +1,4 @@
+
 # 💄 Vendora - Online Beauty Store
 
 A web-based e-commerce platform for beauty and cosmetic products that allows customers to browse, add items to cart, and place orders, while administrators manage products, inventory, suppliers, and orders.
@@ -22,16 +23,17 @@ The system supports two main roles:
 
 ---
 
-## My Responsibilities (Cart Management Module)
+## My Responsibilities (Supplier Management Module)
 
-In this project, my main responsibility was the **Cart Management System**, which includes:
+In this project, my main responsibility was the **Supplier Management Module**, which includes:
 
-- Adding products to the cart  
-- Updating product quantity in the cart  
-- Removing items from the cart  
-- Calculating total price dynamically  
-- Managing cart data before checkout  
-- Ensuring smooth integration between product page and checkout process  
+- Adding suppliers to the system  
+- Updating supplier information  
+- Removing supplier records  
+- Viewing and managing supplier details  
+- Handling supplier-related database operations  
+- Supporting inventory management through supplier integration  
+- Ensuring smooth coordination between supplier and product management modules  
 
 ---
 
@@ -53,4 +55,4 @@ In this project, my main responsibility was the **Cart Management System**, whic
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, Postman  
-
+```
